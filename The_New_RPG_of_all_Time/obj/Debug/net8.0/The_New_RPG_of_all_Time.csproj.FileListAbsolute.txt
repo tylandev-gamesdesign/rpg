@@ -1,0 +1,14 @@
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\obj\Debug\net8.0\The_New_RPG_of_all_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\obj\Debug\net8.0\The_New_RPG_of_all_Time.AssemblyInfoInputs.cache
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\obj\Debug\net8.0\The_New_RPG_of_all_Time.AssemblyInfo.cs
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\obj\Debug\net8.0\The_New_RPG_of_all_Time.csproj.CoreCompileInputs.cache
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\bin\Debug\net8.0\The_New_RPG_of_all_Time.exe
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\bin\Debug\net8.0\The_New_RPG_of_all_Time.deps.json
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\bin\Debug\net8.0\The_New_RPG_of_all_Time.runtimeconfig.json
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\bin\Debug\net8.0\The_New_RPG_of_all_Time.dll
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\bin\Debug\net8.0\The_New_RPG_of_all_Time.pdb
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\obj\Debug\net8.0\The_New_RPG_of_all_Time.dll
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\obj\Debug\net8.0\refint\The_New_RPG_of_all_Time.dll
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\obj\Debug\net8.0\The_New_RPG_of_all_Time.pdb
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\obj\Debug\net8.0\The_New_RPG_of_all_Time.genruntimeconfig.cache
+C:\Users\574136\source\repos\the RPG of all time\The_New_RPG_of_all_Time\obj\Debug\net8.0\ref\The_New_RPG_of_all_Time.dll
