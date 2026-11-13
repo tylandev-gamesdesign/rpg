@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|c:\\users\\574136\\source\\repos\\the rpg of all time\\the_new_rpg_of_all_time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|c:\\users\\574136\\source\\repos\\the rpg of all time\\the_new_rpg_of_all_time\\char3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|solutionrelative:char3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|c:\\users\\574136\\source\\repos\\the rpg of all time\\the_new_rpg_of_all_time\\char2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|solutionrelative:char2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|c:\\users\\574136\\source\\repos\\the rpg of all time\\the_new_rpg_of_all_time\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|solutionrelative:types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|c:\\users\\574136\\source\\repos\\the rpg of all time\\the_new_rpg_of_all_time\\char1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|solutionrelative:char1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|c:\\users\\574136\\source\\repos\\the rpg of all time\\the_new_rpg_of_all_time\\monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|solutionrelative:monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|c:\\users\\574136\\source\\repos\\the rpg of all time\\the_new_rpg_of_all_time\\the_new_rpg_of_all_time.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC466BF9-122B-A318-9C11-C5068D4DFE1F}|The_New_RPG_of_all_Time.csproj|solutionrelative:the_new_rpg_of_all_time.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "The_New_RPG_of_all_Time.csproj",
+              "DocumentMoniker": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\The_New_RPG_of_all_Time.csproj",
+              "RelativeDocumentMoniker": "The_New_RPG_of_all_Time.csproj",
+              "ToolTip": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\The_New_RPG_of_all_Time.csproj",
+              "RelativeToolTip": "The_New_RPG_of_all_Time.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T13:15:26.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monsters.cs",
+              "DocumentMoniker": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\Monsters.cs",
+              "RelativeDocumentMoniker": "Monsters.cs",
+              "ToolTip": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\Monsters.cs",
+              "RelativeToolTip": "Monsters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T13:09:58.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "types.cs",
+              "DocumentMoniker": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\types.cs",
+              "RelativeDocumentMoniker": "types.cs",
+              "ToolTip": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\types.cs",
+              "RelativeToolTip": "types.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:21:12.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "char3.cs",
+              "DocumentMoniker": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\char3.cs",
+              "RelativeDocumentMoniker": "char3.cs",
+              "ToolTip": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\char3.cs",
+              "RelativeToolTip": "char3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T09:53:20.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "char2.cs",
+              "DocumentMoniker": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\char2.cs",
+              "RelativeDocumentMoniker": "char2.cs",
+              "ToolTip": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\char2.cs",
+              "RelativeToolTip": "char2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T09:52:01.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "char1.cs",
+              "DocumentMoniker": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\char1.cs",
+              "RelativeDocumentMoniker": "char1.cs",
+              "ToolTip": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\char1.cs",
+              "RelativeToolTip": "char1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T09:50:45.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\574136\\source\\repos\\the RPG of all time\\The_New_RPG_of_all_Time\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAADwv5AAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T08:34:29.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
